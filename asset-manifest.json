@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/knowyourtrips/static/css/main.64a6a378.css",
+    "main.js": "/knowyourtrips/static/js/main.6b5da5fd.js",
+    "static/media/home-banner-image.png": "/knowyourtrips/static/media/home-banner-image.6df4d11fb387250fc0dc.png",
+    "static/media/AboutImage.png": "/knowyourtrips/static/media/AboutImage.5b2456f39267ed8f2d80.png",
+    "static/media/KnowYourTrips-Flow.png": "/knowyourtrips/static/media/KnowYourTrips-Flow.f1197c0787de4601066f.png",
+    "static/media/mytrips-image.png": "/knowyourtrips/static/media/mytrips-image.d54458a624efac4448ab.png",
+    "static/media/airport-image.png": "/knowyourtrips/static/media/airport-image.380898f790e33a34a409.png",
+    "static/media/trips-image.png": "/knowyourtrips/static/media/trips-image.a830921e4fd89dd8c279.png",
+    "static/media/logo.png": "/knowyourtrips/static/media/logo.db72b5756defc1c75b3e.png",
+    "static/media/home-banner-background.png": "/knowyourtrips/static/media/home-banner-background.0810e6f2c0da81fb7e09.png",
+    "static/media/blog-image.png": "/knowyourtrips/static/media/blog-image.af390f5b8a98204ff8c8.png",
+    "static/media/flight-image.png": "/knowyourtrips/static/media/flight-image.6eaf438e5989e73b2ead.png",
+    "index.html": "/knowyourtrips/index.html",
+    "main.64a6a378.css.map": "/knowyourtrips/static/css/main.64a6a378.css.map",
+    "main.6b5da5fd.js.map": "/knowyourtrips/static/js/main.6b5da5fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64a6a378.css",
+    "static/js/main.6b5da5fd.js"
+  ]
+}
